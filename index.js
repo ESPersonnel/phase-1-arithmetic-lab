@@ -1,12 +1,13 @@
 // Write your code here
 
 // Create a variable called multiply set to an equation that will multiply the variables num1 and num2; the result of the multiplication should be 62
-let num1
-let num2
+let num1 = 31
+let num2 = 2
 
 const multiply = function(num1, num2) {
-    return num1 * num2
+    return num1, num2
 }
+multiply(31, 2)
 
 // Create a variable called random that will generate a random integer greater than 0.
 
